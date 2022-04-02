@@ -16,6 +16,7 @@ from nltk.stem.porter import *
 from nltk.classify import NaiveBayesClassifier
 from wordcloud import WordCloud
 
+# Add packages needed for to train model
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
