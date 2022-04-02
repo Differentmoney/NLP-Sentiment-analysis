@@ -78,6 +78,7 @@ class TwitterClient(object):
         tweetCount = 0
         tweetsPerQry = 100
 
+        # Loop until max tweets limit reached
         while tweetCount < maxTweets:
             try:
                 if (max_id <= 0):
