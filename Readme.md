@@ -32,8 +32,7 @@ Preprocessed:
 ![Screen Shot 2022-04-02 at 1 27 46 PM](https://user-images.githubusercontent.com/56705341/161394339-434921fe-3840-4b6d-9a6d-d5fa9c6b3fe7.png)
 
 Word frequency for positive Sentiments
-
-![image](https://user-images.githubusercontent.com/56705341/161394654-fc33949c-f004-4c51-bfe3-df6843791ca6.png)
+![Screen Shot 2022-04-02 at 1 21 19 PM](https://user-images.githubusercontent.com/56705341/161394095-f70c5475-cf14-45cc-a42e-47de4000d0e9.png)
 
 Words frequency for Negative Sentiments
 
