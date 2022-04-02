@@ -37,7 +37,7 @@ Word frequency for positive Sentiments
 
 Words frequency for Negative Sentiments
 
-![Screen Shot 2022-04-02 at 1 22 19 PM](https://user-images.githubusercontent.com/56705341/161394132-4d46a559-3328-40e8-96f7-0f3b029d818c.png)
+![Screen Shot 2022-04-02 at 1 39 58 PM](https://user-images.githubusercontent.com/56705341/161394763-5af110d0-e6fe-42dc-9a4f-b38a89d4e646.png)
 
 References:
 
